@@ -1,0 +1,15 @@
+.searchInput {
+    margin: 10px 0px;
+    padding: 5px 10px;
+    width: 500px;
+}
+
+.findButton {
+    margin: 0 10px;
+    padding: 5px 10px;
+    background: grey;
+}
+
+.sel {
+    margin-right: 10px;
+}

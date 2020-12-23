@@ -1,0 +1,19 @@
+td {
+    font-size: 13px;
+}
+
+.column {
+    border: 1px solid black;
+}
+
+.phone {
+    border: 1px solid black;
+    width: 150px;
+}
+
+.address {
+    border: 1px solid black;
+    width: 250px;
+    text-align: left;
+    padding-left: 10px;
+}

@@ -1,0 +1,22 @@
+.column {
+    min-width: 90px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.up{
+    display: inline-block;
+    width: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.down {
+    display: inline-block;
+    width: 20px;
+    transform: rotate(180deg);
+
+}
