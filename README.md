@@ -20,8 +20,8 @@
 
 Над таблицей присутсвует кнопка добавить, по нажатии на которую выпадает форма добавления ряда
 
-#| id   | firstName | lastName | email | phone |
-#|input |   input   |   input  | input | input | 
+# | id   | firstName | lastName | email | phone |
+# |input |   input   |   input  | input | input | 
 
 
 После заполнения всех инпутов активируется кнопка Добавить в таблицу которая вставляет заполненный ряд в начало таблицы
